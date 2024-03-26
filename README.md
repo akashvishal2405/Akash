@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A passionate frontend developer</h3>
-
+<h3 align="center">A passionate frontend developer</h3
+<h6>Passionate React developer dedicated to creating seamless user experiences and robust web applications. Proficient in crafting responsive UIs and leveraging modern web technologies to deliver high-quality software solutions. Constantly learning and exploring new frontiers in the ever-evolving world of frontend development.</h6>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/akash.pt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.pt_" height="30" width="40" /></a>
